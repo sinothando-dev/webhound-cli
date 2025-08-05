@@ -1,2 +1,9 @@
-# webhound-cli
-The following is a repo for the webhound-cli program I made to convert the image urls from the generated datasets to images saved locally
+# Overview
+
+Webhound_cli is a simple tool that allows developers to create a folder of images based on the given webhound json file.
+
+# How to use it
+
+```
+int i = 5
+```
